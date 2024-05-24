@@ -6,7 +6,7 @@ const MainPage = () => {
     <h1>
       MainPage
     </h1>
-    <link href="/images/coffeecup.png"></link>
+    <img src="/images/coffeecup.png" alt="An image of a Coffee Cup" />
   </div>
   )
 }
