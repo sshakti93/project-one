@@ -2,7 +2,12 @@ import React from 'react'
 
 const MainPage = () => {
   return (
-  <div>MainPage</div>
+  <div>
+    <h1>
+      MainPage
+    </h1>
+    <link href="/images/coffeecup.png"></link>
+  </div>
   )
 }
 
